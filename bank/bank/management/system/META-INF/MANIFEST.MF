@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: LoginPage
+Class-Path: C:\Users\M.SHIVA KUMAR\IdeaProjects\bank.managment.system\sr
+ c\bank\management\system\LoginPage.java
+
